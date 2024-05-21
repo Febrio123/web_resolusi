@@ -1,3 +1,5 @@
 Rencana konten
 - javascript
+* ES6
 - PHP
+* OOP
