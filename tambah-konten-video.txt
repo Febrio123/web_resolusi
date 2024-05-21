@@ -1,6 +1,9 @@
 Rencana konten
 - fundamental struktur data
 - javascript
+* angular
+* react
 * ES6
 - PHP
+* laravel
 * OOP
