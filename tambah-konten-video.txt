@@ -1,4 +1,5 @@
 Rencana konten
+- fundamental struktur data
 - javascript
 * ES6
 - PHP
