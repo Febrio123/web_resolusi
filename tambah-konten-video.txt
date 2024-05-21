@@ -3,6 +3,7 @@ Rencana konten
 - javascript
 * ES6
 * Framework javascript
+* react js
 - PHP
 * Laravel
 * OOP
