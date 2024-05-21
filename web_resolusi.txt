@@ -2,6 +2,6 @@ WEB RESOLUSI
 - Konsisten untuk belajar 8 jam sehari
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
-- membuat website crud
+- crud success add
 - membuat website pengaduan
 
