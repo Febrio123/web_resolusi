@@ -8,6 +8,5 @@ Rencana konten
 * react js
 - PHP
 * Laravel
-main
 * OOP
 * python
